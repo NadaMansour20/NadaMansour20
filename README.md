@@ -2,5 +2,5 @@
 - 👀 I’m interested in Native Mobile Development..📱
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on Mobile Projects
-- profile [Linkedin](https://www.linkedin.com/in/nada-mansour-15bb4624b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
+- [Linkedin](https://www.linkedin.com/in/nada-mansour-15bb4624b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)
 
