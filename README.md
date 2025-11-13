@@ -19,15 +19,15 @@ Open to opportunities where I can grow as an Android Engineer and contribute to 
 ### 🧠 Languages & Mobile Development
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-009688?style=for-the-badge&logo=square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🗄️ Database & Networking
 ![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 ![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=square&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Ktor](https://img.shields.io/badge/Ktor-0A0F25?style=for-the-badge&logo=ktor&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧩 Architecture & Libraries
