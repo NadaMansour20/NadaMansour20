@@ -3,7 +3,7 @@ I'm **Nada Mansour** — Android Developer 🚀
 
 # 💫 About Me:
 Passionate **Android Developer** with hands-on experience in building modern, scalable, and high-performance mobile applications using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.  
-Curious about **Kotlin Multiplatform (KMP)** and eager to apply modern development practices like **Agile Methodology** to create impactful products.  
+Curious about **Kotlin Multiplatform (KMP)** .  
 Open to opportunities where I can grow as an Android Engineer and contribute to building high-quality, user-friendly apps.
 
 ---
