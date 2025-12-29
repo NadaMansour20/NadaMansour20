@@ -1,5 +1,8 @@
-# 👋 Hi there  
-I'm **Nada Mansour** — Android Developer 🚀  
+I'm **Nada Mansour** — Android Developer 🚀
+
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3J1Z3lmdTM3YjFod2c5aXM0bDExZmNqa3JjY2M4dTl2Zmw5dDZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" />
+</div>
 
 # 💫 About Me:
 Passionate **Android Developer** with hands-on experience in building modern, scalable, and high-performance mobile applications using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.  
